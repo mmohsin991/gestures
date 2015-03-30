@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		422391581AC979C80039E621 /* TempSB.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 422391571AC979C80039E621 /* TempSB.storyboard */; };
 		423158F11A4AD55F00693D21 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 423158F01A4AD55F00693D21 /* AppDelegate.swift */; };
 		423158F31A4AD55F00693D21 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 423158F21A4AD55F00693D21 /* ViewController.swift */; };
 		423158F61A4AD55F00693D21 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 423158F41A4AD55F00693D21 /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		422391571AC979C80039E621 /* TempSB.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = TempSB.storyboard; sourceTree = "<group>"; };
 		423158EB1A4AD55F00693D21 /* gestures.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gestures.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		423158EF1A4AD55F00693D21 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		423158F01A4AD55F00693D21 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 				423158F01A4AD55F00693D21 /* AppDelegate.swift */,
 				423158F21A4AD55F00693D21 /* ViewController.swift */,
 				423158F41A4AD55F00693D21 /* Main.storyboard */,
+				422391571AC979C80039E621 /* TempSB.storyboard */,
 				423158F71A4AD55F00693D21 /* Images.xcassets */,
 				423158F91A4AD55F00693D21 /* LaunchScreen.xib */,
 				423158EE1A4AD55F00693D21 /* Supporting Files */,
@@ -195,6 +198,7 @@
 				423158F61A4AD55F00693D21 /* Main.storyboard in Resources */,
 				423158FB1A4AD55F00693D21 /* LaunchScreen.xib in Resources */,
 				423158F81A4AD55F00693D21 /* Images.xcassets in Resources */,
+				422391581AC979C80039E621 /* TempSB.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -405,6 +409,7 @@
 				4231590C1A4AD55F00693D21 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4231590D1A4AD55F00693D21 /* Build configuration list for PBXNativeTarget "gesturesTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +418,7 @@
 				4231590F1A4AD55F00693D21 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
